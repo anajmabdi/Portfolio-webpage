@@ -3,6 +3,7 @@ body {
   font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
 }
 
+/*Najma Abdi*/
 h1 {
   text-align: center;
   color: rgb(231, 156, 65);
@@ -17,6 +18,8 @@ img {
   float: right;
   margin-top: 0%;
 }
+
+/*Portfolio box details*/
 .portfolio {
   font-size: 15px;
   float: left;
@@ -28,10 +31,12 @@ img {
   border: 2px rgb(1, 25, 1);
 }
 
+
 .portfolio h2 {
   color: white;
 }
 
+/*Welcome to my portfolio*/
 .welcome {
   color:rgb(244, 186, 114);
   font-size: 40px;
@@ -40,9 +45,10 @@ img {
   float: left;
 }
 
+/*About Me*/
 .me {
   font-size: 15px;
-  float: left;
+  float: right;
   width: 250px;
   height: 500px;
   color: rgb(255, 255, 255);
