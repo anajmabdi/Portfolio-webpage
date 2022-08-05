@@ -1,5 +1,5 @@
-# Portfolio Webpage
-#### By: Najma Abdi
+# **Portfolio Webpage**
+##### By Najma Abdi
 
-## Description
-####
+### Description
+  *Created a webpage for my first week independent project. It includes details on my projects I've worked at Epicodus and an About Me.*

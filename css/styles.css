@@ -6,42 +6,47 @@ body {
 h1 {
   text-align: center;
   color: rgb(231, 156, 65);
-  font-size: 1000%;
-  margin: 0px;
+  font-size: 100px;
+  margin: 0%;
+  margin-bottom: 2%;
+  float: left;
 }
 
 img {
-  max-width: 65%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%
+  max-width: 500px;
+  float: right;
+  margin-top: 0%;
 }
 .portfolio {
   font-size: 15px;
-  
   float: left;
   width: 250px;
   height: 500px;
   color: rgb(255, 255, 255);
   background-color: rgb(159, 195, 159);
   padding: 5%;
-  border: 10% rgb(1, 25, 1);
+  border: 2px rgb(1, 25, 1);
 }
 
-.projects {
+.portfolio h2 {
+  color: white;
+}
+
+.welcome {
   color:rgb(244, 186, 114);
   font-size: 40px;
   text-align: center;
   margin-top:0px;
+  float: left;
 }
 
 .me {
-  float: right;
-  width: 600px;
-  height: 1000px;
+  font-size: 15px;
+  float: left;
+  width: 250px;
+  height: 500px;
   color: rgb(255, 255, 255);
   background-color: rgb(159, 195, 159);
-  padding: 10%;
-  border: 10% rgb(1, 25, 1);
+  padding: 10px;
+  border: 2px rgb(1, 25, 1);
 }
