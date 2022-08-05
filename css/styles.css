@@ -7,7 +7,7 @@ h1 {
   text-align: center;
   color: rgb(231, 156, 65);
   font-size: 1000%;
-  margin-botton: 0%;
+  margin: 0px;
 }
 
 img {
@@ -18,11 +18,14 @@ img {
   width: 40%
 }
 .portfolio {
-  width: 20%;
-  height: 25%;
+  font-size: 15px;
+  
+  float: left;
+  width: 250px;
+  height: 500px;
   color: rgb(255, 255, 255);
   background-color: rgb(159, 195, 159);
-  padding: 10%;
+  padding: 5%;
   border: 10% rgb(1, 25, 1);
 }
 
@@ -30,9 +33,15 @@ img {
   color:rgb(244, 186, 114);
   font-size: 40px;
   text-align: center;
-  margin-top:0%;
+  margin-top:0px;
 }
 
 .me {
-
+  float: right;
+  width: 600px;
+  height: 1000px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(159, 195, 159);
+  padding: 10%;
+  border: 10% rgb(1, 25, 1);
 }
